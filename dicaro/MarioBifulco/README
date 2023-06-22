@@ -1,0 +1,7 @@
+# Esercitazioni TLN pt.3
+
+La cartella `data` contiene tutti i file utilizzati per le esercitazioni.
+
+Per evitare di appesantire inutilmente la consegna i dataset scaricabili dalla pagina moodle sono stati sostituiti da file *dummy*, con l'unico scopo di mostrare dove i notebook si aspettano di trovare le risorse.
+
+Gli unici file da non sostituire sono `fused_text_easy.txt` e `fused_text_difficult.txt`, che contengono i testi per l'esercizio su `TextTiling`.

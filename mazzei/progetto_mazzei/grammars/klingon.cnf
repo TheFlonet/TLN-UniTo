@@ -1,0 +1,13 @@
+S ::= NP VP
+S ::= VP Pron
+S ::= VP Adv
+S ::= NP Pron
+S ::= NP Verb
+S ::= Verb Nominal
+VP ::= NP Verb
+Nominal ::= NP NP
+NP ::= Adv Pron
+NP ::= tlhingan | hol | puq | pa'daq | heghlu'meh | sosli' | quch | qe'
+Verb ::= dajatlh'a' | vilegh | jihtah | qaq | vijatlhahbe' | hab | qaq'e'
+Adv ::= jajvam | nuqdaq
+Pron ::= jih | mah | 'oh
